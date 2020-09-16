@@ -42,3 +42,6 @@ The most powerful ARM device that runs any software I can think of is the Raspbe
 - [x] Make commands for making directories
 - [ ] Edit all the ``.txt`` files in ``FOMOS/commands/help`` because that's pretty much the documentation for FOMOS
 - [x] Get everything from [FOMOSv2-CL v2.1.1-beta](https://github.com/NathanMcMillan54/FOMOSv2-CLtest) into this FOMSOv2-CL (all commands)
+
+#
+This is FOMOS on September 16 2020
